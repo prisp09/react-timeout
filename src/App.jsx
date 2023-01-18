@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const maxTime = 1000 * 15; // 15 minutes  
+const maxTime = 1000 * 15; // 15 seconds 
 const userActivity = [
   "click",
   "scroll",
